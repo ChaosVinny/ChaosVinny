@@ -1,4 +1,4 @@
- 👋 Ciao, mi Presento sono @ChaosVinny
+ 👋 Ciao, sono @ChaosVinny
  👀 I’m interested in Minecraft Things
  🌱 I’m currently learning Python
  💞️ I’m looking to collaborate on ChaosNetwork
