@@ -1,8 +1,4 @@
- 👋 Ciao, sono @ChaosVinny
- 👀 I’m interested in Minecraft Things
- 🌱 I’m currently learning Python
- 💞️ I’m looking to collaborate on ChaosNetwork
- 📫 How to reach me? @AndromedaBridge on Telegram
+ 👋 Actually not that Dev
 
 <!---
 ChaosVinny/ChaosVinny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
